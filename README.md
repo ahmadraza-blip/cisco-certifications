@@ -26,10 +26,7 @@ Verified credentials earned through Cisco Networking Academy.
 - Secure wireless router configuration
 
 ## Verification
-Each certificate includes a QR code and can be verified online through Cisco Networking Academy.
-
-- Introduction to Cybersecurity: [Verify credential](https://www.netacad.com/certificates/?issuanceId=a0daa8c1-0f95-47ed-9ffc-c363970319be)
-- Networking Basics: [Verify credential](https://www.netacad.com/certificates/?issuanceId=b26922dc-39cc-4788-93c6-440b0bc12a2a)
+Each certificate PDF includes a QR code. Scan it to verify the credential through Cisco Networking Academy.
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/ahmadraza-blip)
+[LinkedIn](https://www.linkedin.com/in/ahmad-raza-cyber) | [GitHub](https://github.com/ahmadraza-blip)
